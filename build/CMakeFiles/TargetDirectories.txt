@@ -1,0 +1,2 @@
+/home/name/project/helloworld/gitlearn/build/CMakeFiles/rebuild_cache.dir
+/home/name/project/helloworld/gitlearn/build/CMakeFiles/edit_cache.dir
